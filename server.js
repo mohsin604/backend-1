@@ -1,6 +1,6 @@
 // BLOCK START DEPENDENCIES
 const express= require ('express')
-const myvariable= require('./configuration/myvariable')
+const myvariable=require('./configuration/myvariable')
 const cors= require('cors')
 // BLOCK end DEPENDENCIES
 
